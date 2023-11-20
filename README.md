@@ -1,14 +1,8 @@
 **👋 Hi there! I'm Myron**
 
-I'm currently enrolled at Mission Ready HQ taking Salesforce Developer Accelerator program as I aim to become a Saleforce Developer/Functional Consultant.
+I'm currently working as an Associate Salesforce Technical Consultant.
 
-Things I enjoy learning in this program:
-  - Salesforce Flows
-  - Object and fields management
-  - SOQL
-  - Apex
-
-While studying, I'm also working part time as a Senior Customer Experience Specialist (Banking) for Xero.
+I'm working to continue to improve my coding knowledege and become a better developer.
 
 On the side I'm also learning Java and Web development.
 
