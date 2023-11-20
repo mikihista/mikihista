@@ -2,7 +2,7 @@
 
 I'm currently working as an Associate Salesforce Technical Consultant.
 
-I'm working to continue to improve my coding knowledege and become a better developer.
+My aim is to continually improve my coding knowledege and become a better developer.
 
 On the side I'm also learning Java and Web development.
 
